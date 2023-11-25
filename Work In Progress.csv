@@ -1,0 +1,7 @@
+﻿Title,Work Item,Complete Percentage,Progress,Priority
+"WIP001","New PowerApps Video","60","In Progress","Low"
+"WIP002","New Power Automate Video","60","In Progress","Low"
+"WIP003","New PowerBI Video","46","Blocked","Critical"
+"WIP004","New Power Virtual Agent Video","100","Completed","High"
+"WIP006","FX Code Creation","90","Blocked","Medium"
+"WIP007","Create flows","20","In Progress","High"
